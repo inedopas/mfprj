@@ -1,0 +1,9 @@
+{
+    "name": "inedopas/myfirstproject",
+    "require": {
+        "silex/silex": "^2.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.4"
+    }
+}
